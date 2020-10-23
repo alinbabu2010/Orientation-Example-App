@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Orient App</string>
+    <string name="redButtonText">Red</string>
+    <string name="greenButtonText">Green</string>
+    <string name="blueButtonText">Blue</string>
+    <string name="white_text">White</string>
+    <string name="title_text">Click the button below to change background color.</string>
+</resources>
