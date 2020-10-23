@@ -1,11 +1,8 @@
 package com.example.orientapp
 
 import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModel
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.example.orientapp.databinding.MainActivityBinding
 import com.example.orientapp.ui.main.MainViewModel
